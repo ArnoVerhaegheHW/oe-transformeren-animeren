@@ -1,0 +1,30 @@
+* {
+    margin: 20px;
+}
+
+#square {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: linear-gradient(to bottom, lightcoral 0%, darkred 100%);
+}
+
+#rectangle {
+    width: 400px;
+    height: 200px;
+    background-color: lightgreen;
+}
+
+#triangle {
+    width: 0;
+    height: 0;
+    border-left: 200px solid lightskyblue;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+}
